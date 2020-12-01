@@ -12,7 +12,7 @@ A simple project to display a bar chart using D3 (JavaScript library for visuali
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://mcervantes71.github.io/Bar_Chart_D3)
+[Live Demo Link](https://mcervantes71.github.io/Bar_Chart_D3/index.html)
 
 ## :busts_in_silhouette: Authors
 
